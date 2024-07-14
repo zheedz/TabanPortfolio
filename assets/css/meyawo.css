@@ -11213,6 +11213,14 @@ p {
   height: 350px;
 }
 
+.portfolio-card .portfolio-card-img-4 {
+
+  width: 100%;
+  height: 350px;
+  margin-top: 50px;
+  
+}
+
 .portfolio-card .portfolio-card-overlay {
   position: absolute;
   top: 50%;
